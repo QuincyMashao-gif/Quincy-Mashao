@@ -17,7 +17,7 @@ Tools:
 Git, Docker, Power BI, Visual Studio, TinkerCAD
 
 Cloud & DevOps:
-Docker, Basic Microservices Concepts
+Docker, Basic Microservices Concepts.
 Experience deploying and managing Azure Virtual Desktop environments Azure virtual machines, networking, storage, and cloud security
 
 Operating Systems:
