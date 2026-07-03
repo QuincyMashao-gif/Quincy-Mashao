@@ -18,9 +18,11 @@ Git, Docker, Power BI, Visual Studio, TinkerCAD
 
 Cloud & DevOps:
 Docker, Basic Microservices Concepts
+Experience deploying and managing Azure Virtual Desktop environments Azure virtual machines, networking, storage, and cloud security
 
 Operating Systems:
 Windows Server, Ubuntu Linux
 
 Other:
 IoT Fundamentals, PC Hardware, System Administration Basics
+
